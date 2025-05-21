@@ -1,0 +1,13 @@
+pandas
+matplotlib
+openai
+chromadb
+tiktoken
+pillow
+requests
+sentence-transformers
+einops
+nltk
+scikit-learn
+python-dotenv
+streamlit 
