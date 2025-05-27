@@ -11,3 +11,4 @@ nltk
 scikit-learn
 python-dotenv
 streamlit 
+faiss
